@@ -1,3 +1,4 @@
+/*a simple program example in C*/
 #include <ctype.h>
 #include <stdio.h>
 
